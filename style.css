@@ -68,6 +68,7 @@ header {
 #search{
     width: 500px;
     height: 25px;
+    padding: 5px;
 }
 .items{
     margin: 10px 0;
